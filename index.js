@@ -20,6 +20,8 @@ const invertCase = (text) => {
   
   export default invertCase;
   
+  // Проверка
+  
   const text = 'Hello, World!';
   const result = invertCase(text);
   
